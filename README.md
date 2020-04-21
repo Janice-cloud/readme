@@ -1,34 +1,33 @@
 
         
-        # test
+        # Readme
         
 
 
         ## Description
         
-test
+readme generator
 
         ## Installation
         
-test
+
 
         ## Usage
         
-test
+
 
         ## License
         
-[![License:MPL 2.0](https://img.shields.io/badge/<License>-<MPL 2.0>-<red>)]
+[![License:MIT](https://img.shields.io/badge/<License>-<MIT>-<red>)]
 
         ## Contributing
         
-test
+Janice-Cloud
 
         ## Test
         
-test
+
 
         ## Questions
-
 
         

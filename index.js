@@ -51,13 +51,13 @@ inquirer
         let data = `
         
         # ${ans.title}
-        \r\n
+        \n
 
         ## Description
-        \r\n${ans.description}
+        \n${ans.description}
 
         ## Installation
-        \r\n${ans.installation}
+        \n${ans.installation}
 
         ## Usage
         \r\n${ans.usage}
